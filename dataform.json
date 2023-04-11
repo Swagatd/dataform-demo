@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "concise-smoke-376101",
+  "defaultLocation": "asia-southeast1"
+}
+    
